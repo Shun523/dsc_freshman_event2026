@@ -123,9 +123,6 @@ void loop() {
 
   lastButtonState = buttonState;
 }
-
-
-Arduino（メモリ）のコード
 ```
 
 ---
