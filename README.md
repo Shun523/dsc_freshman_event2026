@@ -1,7 +1,7 @@
 # DS部新歓イベント2026
 
 まずはArduino IDEのインストール
-arduino.cc/en/software
+(#arduino.cc/en/software)
 
 
 [CPUのコード](#cpuのコード)  
